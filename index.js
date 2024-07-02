@@ -15,4 +15,3 @@ const record = [
             return undefined
         }
   }
-  console.log(superbowlWin(record))
